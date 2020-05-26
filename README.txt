@@ -1,0 +1,1 @@
+Proof of concept implementation of tic tac toe using python. To play, start a server and then, using the clients, start a game.
