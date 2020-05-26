@@ -1,5 +1,3 @@
-Ricardo J. Velasuqez (RJV574)
-Extra Credit 2
 
 TIC TAC TOE (runs in python3)
 
